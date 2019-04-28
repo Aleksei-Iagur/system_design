@@ -169,3 +169,7 @@ Depending on where you are interviewing, go through the company blog. VERY USEFU
  8. Monetization
 
 Best of luck :+1:, feel free to send pull requests to add more content to this git!
+
+## YouTube channels
+* [Algorithms](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+* [Dynamic Algorithms + System Design](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
