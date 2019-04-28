@@ -18,6 +18,7 @@ b) Learn more about how large-scale systems work and thought process of designin
 - [ ] [architecture](#architecture)
 - [ ] [company engineering blog links](#blog)
 - [ ] [Low on time ?](#tldr)
+- [ ] [YouTube videos](#youtube)
 
 ## <a name='start'> Starting point </a>
 
@@ -170,6 +171,6 @@ Depending on where you are interviewing, go through the company blog. VERY USEFU
 
 Best of luck :+1:, feel free to send pull requests to add more content to this git!
 
-## YouTube channels
+## <a name='youtube'>YouTube channels</a>
 * [Algorithms](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
 * [Dynamic Algorithms + System Design](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
